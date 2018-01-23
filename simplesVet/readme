@@ -8,4 +8,4 @@ Extensão 'Chrome' para controle de Acesso HTTP:
 Link: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 
 Para Startar o Server:
-Use: run server : npm run start
+Use: {PASTA RAIZ PROJETO} $npm run start
