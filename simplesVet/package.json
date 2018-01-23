@@ -10,7 +10,8 @@
   "author": "pereiraJr",
   "license": "ISC",
   "devDependencies":{
-    "nodemon": "^1.14.7"
+    "nodemon": "^1.14.7",
+    "morgan": "^1.8.2"
   },
   "dependencies": {
     "express": "^4.15.3"
